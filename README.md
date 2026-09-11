@@ -139,7 +139,7 @@ The published application is built as a **self-contained Windows x64 application
 
 ## Installation
 
-For a self-contained release, extract the contents of the published application package to a folder and run:
+For a self-contained release, extract the contents of the zip file found in Releases to a folder and run:
 
 ```text
 DigiRigControlCenter.exe
